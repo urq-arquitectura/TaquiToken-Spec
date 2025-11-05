@@ -1,66 +1,76 @@
-![Status](https://img.shields.io/badge/status-exploratorio-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-success)
 # TaquiToken — Capa Semántica Previa a la Tokenización
 **Autor:** Juan Carlos Urzúa Rojas  
 **Localización:** Coyhaique, Patagonia  
-**Estado:** Proyecto abierto en fase de exploración colaborativa
+**Estado:** Proyecto abierto en fase de exploración colaborativa  
+**Licencia:** MIT
+---
+![Estado](https://img.shields.io/badge/estado-exploratorio-blue)
+![Contribuciones bienvenidas](https://img.shields.io/badge/contribuciones-welcome-success)
+![Licencia MIT](https://img.shields.io/badge/license-MIT-green)
 ---
 ## 🌱 ¿Qué es TaquiToken?
-TaquiToken es una **capa intermedia entre el lenguaje humano y la tokenización** utilizada por los modelos de inteligencia artificial.  
-Busca **comprimir la intención** antes de que el lenguaje sea fragmentado en tokens, reduciendo redundancia y ambigüedad.
-
+TaquiToken propone una **capa intermedia** entre el lenguaje humano y la tokenización utilizada por los modelos de IA.
+Su propósito es **condensar intención**, reduciendo redundancia y ambigüedad antes de que el lenguaje sea descompuesto en tokens.
 No es un idioma nuevo.  
-No es un conjunto cerrado de símbolos.  
-Es una forma de **escribir lo esencial**, inspirada en la taquigrafía, la semiología y la modelación conceptual.
+No es un conjunto rígido de símbolos.  
+Es una forma de **escribir lo esencial**, inspirada en la taquigrafía y el pensamiento estructural.
 ---
 ## 🎯 Problema que aborda
-Cuando hablamos con IA:
-En esa transición:
-- la intención original se fragmenta,
-- aparece redundancia,
-- necesitamos explicar y reexplicar para ser comprendidos.
-Esto produce **fricción cognitiva** en el diálogo humano–IA.
+Hoy, cuando hablamos con IA:
+En esa transición se pierde:
+- contexto,
+- intención,
+- sentido relacional.
+Por eso explicamos, aclaramos, corregimos y repetimos.
+TaquiToken reduce esa fricción.
 ---
-## 🌿 Propuesta
-Introducir una capa previa:
-Esta capa permite:
-- reducir tokens,
-- aumentar precisión,
-- mantener intención,
-- mejorar el flujo de diálogo.
+## 🌿 Propuesta de Capa Intermedia
+**Diagrama conceptual:**  
+![Flujo TaquiToken](flujo-taquitoken.svg)
+*(Si no se ve, revisar que el archivo esté en la raíz del repositorio.)*
 ---
 ## ✏️ Ejemplo simple
-**Texto natural**  
+**Lenguaje natural:**  
 “Quiero una casa modular que pueda crecer cuando mi familia aumente y reciba sol del norte.”
-**TaquiToken**
+**TaquiToken:**
+**Qué ocurre:**
+- Se reduce el número de tokens.
+- La intención se vuelve explícita y estable.
+- El modelo procesa **significado sintetizado**, no solo texto.
+---
 ## 📂 Estructura del repositorio
-**Qué gana el modelo**  
-Procesa una intención **ya condensada**, con menos tokens y menos ambigüedad, en vez de texto redundante.
+
+---
+
 ## 🤝 Cómo contribuir
 
-Este proyecto está abierto a colaboración.  
-No requiere expertos en IA únicamente; también son bienvenidos:
-- lingüistas
-- arquitectos
-- diseñadores de interacción
-- investigadores cognitivos
-- educadores
-- curiosos atentos
-Sigue la guía aquí:  
-👉 **CONTRIBUTING.md**
+Este proyecto está abierto a colaboración interdisciplinaria:
+
+| Perfil | Aporte |
+|------|--------|
+| Lingüistas | Reducción de ambigüedad |
+| Diseñadores | Escritura visual / símbolos |
+| Investigadores IA | Pruebas de tokenización y embeddings |
+| Arquitectos / Educadores / Profesionales | Casos de uso reales |
+
+### Empieza aquí:
+👉 Issue **#Bienvenidos — Cómo empezar**  
+👉 Issue **#1 Glosario Base v1**  
+👉 Issue **#2 Ejemplos por dominio**  
+👉 Issue **#3 Escritura / Notación**
+Guía:  
+→ [CONTRIBUTING.md](CONTRIBUTING.md)
 ---
-## 🧭 Estado del desarrollo
-- [x] Concepto definido
-- [x] Especificación inicial abierta
-- [x] Glosario base v0
-- [ ] Expansión a dominios adicionales
-- [ ] Pruebas con modelos de lenguaje
-- [ ] Generación de interfaces de escritura simplificada
----
-## ✨ Invitación
-Este proyecto no busca controlar el lenguaje.  
-Busca **abrir un espacio más humano** dentro del proceso técnico.
-Si esto resuena contigo:  
-📩 urq.arquitectura@gmail.com
+## 🌍 Filosofía del proyecto
+TaquiToken no busca imponer una forma de hablar.  
+Busca **abrir un espacio más humano** dentro del proceso computacional.
 > “Hablar con claridad también es construir refugio.”
+---
+## 📩 Contacto
+**Juan Carlos Urzúa Rojas**  
+Coyhaique, Patagonia  
+urq.arquitectura@gmail.com
+
+flujo-taquitoken.svg
+
+
