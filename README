@@ -1,0 +1,101 @@
+# TaquiToken — Capa Semántica Previa a la Tokenización
+
+**Autor:** Juan Carlos Urzúa Rojas  
+**Localización:** Coyhaique, Patagonia  
+**Estado:** Proyecto abierto en fase de exploración colaborativa
+
+---
+
+## 🌱 ¿Qué es TaquiToken?
+
+TaquiToken es una **capa intermedia entre el lenguaje humano y la tokenización** utilizada por los modelos de inteligencia artificial.  
+Busca **comprimir la intención** antes de que el lenguaje sea fragmentado en tokens, reduciendo redundancia y ambigüedad.
+
+No es un idioma nuevo.  
+No es un conjunto cerrado de símbolos.  
+
+Es una forma de **escribir lo esencial**, inspirada en la taquigrafía, la semiología y la modelación conceptual.
+
+---
+
+## 🎯 Problema que aborda
+
+Cuando hablamos con IA:
+
+
+En esa transición:
+- la intención original se fragmenta,
+- aparece redundancia,
+- necesitamos explicar y reexplicar para ser comprendidos.
+
+Esto produce **fricción cognitiva** en el diálogo humano–IA.
+
+---
+
+## 🌿 Propuesta
+
+Introducir una capa previa:
+
+
+Esta capa permite:
+- reducir tokens,
+- aumentar precisión,
+- mantener intención,
+- mejorar el flujo de diálogo.
+
+---
+
+## ✏️ Ejemplo simple
+
+**Texto natural:**  
+> “Quiero una casa modular que pueda crecer cuando mi familia aumente y reciba sol del norte.”
+
+**TaquiToken:**  
+
+**Tokens del modelo:**  
+→ se procesan a partir de la forma condensada, no del texto redundante.
+
+---
+
+## 📂 Estructura del repositorio
+
+
+---
+
+## 🤝 Cómo contribuir
+
+Este proyecto está abierto a colaboración.  
+No requiere expertos en IA únicamente; también son bienvenidos:
+
+- lingüistas
+- arquitectos
+- diseñadores de interacción
+- investigadores cognitivos
+- educadores
+- curiosos atentos
+
+Sigue la guía aquí:  
+👉 **CONTRIBUTING.md**
+
+---
+
+## 🧭 Estado del desarrollo
+
+- [x] Concepto definido
+- [x] Especificación inicial abierta
+- [x] Glosario base v0
+- [ ] Expansión a dominios adicionales
+- [ ] Pruebas con modelos de lenguaje
+- [ ] Generación de interfaces de escritura simplificada
+
+---
+
+## ✨ Invitación
+
+Este proyecto no busca controlar el lenguaje.  
+Busca **abrir un espacio más humano** dentro del proceso técnico.
+
+Si esto resuena contigo:  
+📩 urq.arquitectura@gmail.com
+
+> “Hablar con claridad también es construir refugio.”
