@@ -1,0 +1,24 @@
+De la Taquigrafía a la Tokenización
+Una propuesta para un puente semántico entre humanos e IA
+Juan Carlos Urzúa Rojas
+Introducción
+En mi trabajo como arquitecto, he visto cómo una idea clara puede diluirse en exceso de palabras. Lo mismo ocurre cuando los humanos interactuamos con inteligencia artificial: nuestras frases naturales son largas, ambiguas, redundantes. Esto genera un gasto energético innecesario para ambas partes.
+
+Inspirado por la taquigrafía, propongo un modelo intermedio entre el lenguaje natural y la tokenización técnica que usan los modelos de IA: una capa simbólica, condensada, semántica, que actúe como lenguaje puente más eficiente y expresivo.
+La idea en 3 pasos
+1. Input humano natural:
+   “Quiero una vivienda flexible, de bajo costo, que crezca por etapas.”
+2. Condensación taquigráfica semántica:
+   VIV-FLEX + BAJO$ > ETAPAS
+3. Tokenización IA:
+   El modelo transforma ese string ya depurado en tokens estructurados más precisos, mejorando su comprensión y eficiencia.
+¿Por qué es relevante?
+- Reducción de ambigüedad.
+- Aumento en la velocidad de procesamiento.
+- Posibilidad de estandarizar un lenguaje simbólico humano que sirva a múltiples culturas.
+- Adaptación a entornos técnicos (arquitectura, medicina, programación).
+¿A qué apunta?
+A abrir un nuevo campo de exploración:
+“¿Y si los humanos aprendiéramos a comunicarnos con la IA en un lenguaje comprimido, universal y simbólico? No como programadores, sino como pensadores que condensan sentido.”
+Cierre
+Esta propuesta está abierta al debate, a la colaboración, a la mejora. Si resuena contigo, te invito a reflexionar cómo podrías aplicarla en tu área profesional, educativa o técnica.
