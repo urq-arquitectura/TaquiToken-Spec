@@ -1,0 +1,25 @@
+.github/pull_request_template.md
+# Propuesta de Cambio / Pull Request
+
+## Descripción
+(Explica claramente el cambio propuesto)
+
+## Tipo de cambio
+- [ ] Nueva regla del Spec
+- [ ] Nuevo token / modificación de token existente
+- [ ] Expansión de dominio (glosario sectorial)
+- [ ] Mejora de documentación
+
+## Ejemplo antes / después
+
+**Antes:**
+
+**Después:**
+
+## Justificación
+(Explica por qué mejora claridad, eficiencia o precisión semántica)
+
+## Checklist
+- [ ] Cumple con las reglas semánticas del Spec
+- [ ] Se incluyó ejemplo funcional
+- [ ] Se verificó ausencia de conflictos de significado
