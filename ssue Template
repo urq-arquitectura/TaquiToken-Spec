@@ -1,0 +1,28 @@
+.github/ISSUE_TEMPLATE/token_request.md
+---
+name: Propuesta de Nuevo Token o Modificación
+about: Sugiere un token nuevo o mejora uno existente
+---
+
+## Propuesta
+**Nuevo token o modificación:**  
+`TOKEN PROPUESTO`
+
+## Significado
+(Definir claramente el concepto representado)
+
+## Dominio
+- [ ] Arquitectura
+- [ ] Salud
+- [ ] Educación
+- [ ] General/Transversal
+
+## Ejemplo de uso
+
+## Justificación
+- ¿Reduce ambigüedad?
+- ¿Reduce longitud?
+- ¿Mejora expresión conceptual?
+
+## Impacto esperado
+(Qué mejora en flujo humano ↔ IA)
